@@ -53,15 +53,15 @@ h2 {
 }
 
 .box label:nth-child(1) i {
-    background-image: url(01.jpg);
+    background-image: url(../../01.jpg);
     animation: animate 0.5s steps(3) infinite;
 }
 .box label:nth-child(2) i {
-    background-image: url(02.jpg);
+    background-image: url(../../02.jpg);
     animation: animate 0.4s steps(3) infinite;
 }
 .box label:nth-child(3) i {
-    background-image: url(03.jpg);
+    background-image: url(../../03.jpg);
     animation: animate 0.7s steps(3) infinite;
 }
 

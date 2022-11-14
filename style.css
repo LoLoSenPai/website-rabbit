@@ -29,6 +29,11 @@ html {
     padding-right: 1rem;
 }
 
+.btn-group {
+    position: relative;
+    right: 300px;
+}
+
 .btn {
     border: 0;
     padding: .5rem 1rem;
