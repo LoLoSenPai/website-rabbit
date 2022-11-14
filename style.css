@@ -7,7 +7,8 @@
 :root {
     --color1: #000000;
     --color2: #ffffff;
-    --color3: #d02561;
+    /* --color3: #d02561; */
+    --color3: rgb(60, 158, 250);
     --color4: #04091a;
     --color5: #707070;
 }
@@ -29,11 +30,6 @@ html {
     padding-right: 1rem;
 }
 
-.btn-group {
-    position: relative;
-    right: 300px;
-}
-
 .btn {
     border: 0;
     padding: .5rem 1rem;
@@ -49,6 +45,7 @@ html {
 
 a .btn {
     color: var(--color2);
+    background: var(--color3);
 }
 
 .red {
